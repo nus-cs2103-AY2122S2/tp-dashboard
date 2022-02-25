@@ -1,0 +1,186 @@
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser validateHeader
+INFO: Parsed header of CSV file, repo-config.csv, and recognized columns: Repository's Location,  Branch,  Shallow Cloning,  File formats,  Ignore Glob List,  Ignore Authors List,  Find Previous Authors,  Ignore standalone config,  Ignore Commits List
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 2 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-W17-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 3 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F11-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 4 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F11-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 5 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-W16-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 6 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F09-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 7 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-W16-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 8 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F10-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 9 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F10-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 10 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F11-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 11 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F09-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 12 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F09-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 13 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-W16-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 14 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-W17-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 15 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-W16-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 16 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-W17-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 17 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F11-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 18 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103-F09-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 19 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T17-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 20 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T13-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 21 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W14-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 22 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W13-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 23 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W12-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 24 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W09-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 25 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T11-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 26 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T17-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 27 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W09-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 28 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T13-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 29 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W14-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 30 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T13-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 31 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W13-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 32 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T13-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 33 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W09-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 34 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W13-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 35 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T12-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 36 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T17-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**;moduleInfo.json,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 37 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W15-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 38 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W12-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 39 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W11-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 40 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W13-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 41 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W12-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 42 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T09-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 43 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T12-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 44 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T11-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 45 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T12-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 46 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W12-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 47 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T11-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 48 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T12-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 49 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T09-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 50 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T11-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 51 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T09-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 52 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W11-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 53 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W15-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 54 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W15-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 55 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T09-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 56 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W11-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 57 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W09-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 58 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W11-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 59 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-T17-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.parser.CsvParser isLineMalformed
+WARNING: Line 60 in CSV file, repo-config.csv, is malformed.
+Content: https://github.com/AY2122S2-CS2103T-W14-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,
+Feb 25, 2022 5:37:38 PM reposense.RepoSense main
+WARNING: No valid configurations in the repo-config.csv.
+reposense.parser.InvalidCsvException: No valid configurations in the repo-config.csv.
+	at reposense.parser.CsvParser.parse(CsvParser.java:109)
+	at reposense.RepoSense.getRepoConfigurations(RepoSense.java:119)
+	at reposense.RepoSense.main(RepoSense.java:62)
+
