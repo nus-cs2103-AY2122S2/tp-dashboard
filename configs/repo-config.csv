@@ -1,5 +1,4 @@
 Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone config,Ignore Commits List,Ignore Authors List,Shallow Cloning,Find Previous Authors
-https://github.com/AY2122S2-CS2103-W17-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
 https://github.com/AY2122S2-CS2103-F11-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
 https://github.com/AY2122S2-CS2103-F11-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
 https://github.com/AY2122S2-CS2103-W16-2/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
@@ -13,6 +12,7 @@ https://github.com/AY2122S2-CS2103-F09-1/tp.git,master,java;fxml;bat;sh;css;xml;
 https://github.com/AY2122S2-CS2103-W16-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
 https://github.com/AY2122S2-CS2103-W17-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
 https://github.com/AY2122S2-CS2103-W16-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
+https://github.com/AY2122S2-CS2103-W17-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
 https://github.com/AY2122S2-CS2103-W17-1/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
 https://github.com/AY2122S2-CS2103-F11-4/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
 https://github.com/AY2122S2-CS2103-F09-3/tp.git,master,java;fxml;bat;sh;css;xml;md;adoc;puml;properties;gradle,tutorials/**,,,,,
